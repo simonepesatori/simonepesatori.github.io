@@ -1,5 +1,5 @@
 ---
-title: "Noddal rational curves on Enriques surfaces of base change type"
+title: "Nodal rational curves on Enriques surfaces of base change type"
 collection: publications
 category: preprint
 permalink:
