@@ -1,7 +1,7 @@
 ---
 title: " Coincident root loci and the moduli space of rational elliptic surfaces"
 collection: talks
-type: 
+
 permalink: 
 venue: "Junior Seminar"
 date: 2023-04-19
