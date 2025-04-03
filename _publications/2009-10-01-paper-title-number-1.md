@@ -1,4 +1,3 @@
----
 title: "Nodal rational curves on Enriques surfaces of base change type"
 collection: Preprint
 category: preprint
