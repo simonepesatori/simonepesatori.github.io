@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Simone Pesatori"
+title                    : "Simone Pesatori - Personal webpage"
 title_separator          : "-"
 name                     : &name "Simone Pesatori"
 description              : &description "I obtained my PhD at the University of Roma Tre in March 2025"
